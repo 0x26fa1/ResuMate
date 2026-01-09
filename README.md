@@ -40,3 +40,8 @@ For support, email support@resumate.ph
 ## Authors
 
 - [@0x26fa1](https://github.com/0x26fa1)
+
+![Logo](https://i.ibb.co/wN6v43n5/waval-ico.png)
+
+
+
